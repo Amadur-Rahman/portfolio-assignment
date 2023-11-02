@@ -1,0 +1,149 @@
+*{
+    margin: 0 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    background-image: url('../images/donation13.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    padding: 20px;
+    background-color: lightslategrey;
+    height: 500px;
+}
+
+.banner{
+    text-align: center;
+}
+.banner-title{
+    font-size: 20;
+    font-weight: 800;
+    padding: 50px;
+    color: white;
+}
+.banner-sub-title{
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 500px;
+    color: white;
+}
+.button{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 65px;
+    border-radius: 5px;
+    background-color: #ff6600;
+}
+section{
+    text-align: center;
+}
+.section-title{
+    margin-top: 20px;
+    padding: 1px;
+    margin-top: 30px;
+}
+.section-description{
+    color: #757575;
+    font-size: 12px;
+}
+h5{
+    padding: 2px;
+    margin-top: 35px;
+}
+.money-button{
+    padding: 20px;
+    margin-top: 10px;
+}
+div .btn{
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    border-style: none;
+    margin-right: 10px;
+}
+hr{
+    margin-bottom: 30px;
+}
+.help-container{
+    display: flex;
+    margin-top: 80px;
+}
+.help-container .help1{
+    border-radius: 5px;
+    background: lightblue;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    margin-left: 200px;
+  
+}
+.help-container .help2{
+    border-radius: 5px;
+    background: lightcoral;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    margin-left: 100px;
+
+}
+.help-container .help3{
+    border-radius: 5px;
+    background: lightgreen;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.button2{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 65px;
+    border-radius: 5px;
+    background-color: #ff6600;
+    margin: 20px;
+}
+.their-lives {
+    display: flex;  
+    align-items: center;
+
+}
+.their-lives img{
+    margin-top: 50px;
+    height: 500px;
+    width: 700px;
+}
+.form{
+    background-color: lightblue;
+    text-align: center;
+    margin: 5px 250px;
+}
+.form input{
+    margin: 50px;
+    padding: 8px;
+    border-radius: 5px;
+    border-style: none;
+}
+.email {
+    background-color: lightcoral;
+}
+footer{
+    background-color: rgb(46, 45, 45);
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+.be{
+    color: lightcoral;
+}
+.gonna{
+    color: #cecccc;
+    
+}
+.money-button .btn:hover{
+    background-color: aqua;
+}
