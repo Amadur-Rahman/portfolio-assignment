@@ -130,6 +130,8 @@ hr{
 }
 .email {
     background-color: lightcoral;
+    height: 52px;
+    width: 300px;
 }
 footer{
     background-color: rgb(46, 45, 45);
@@ -146,4 +148,8 @@ footer{
 }
 .money-button .btn:hover{
     background-color: aqua;
+}
+.sub{
+    position: relative;
+    right: 94px;
 }
